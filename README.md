@@ -11,4 +11,7 @@ The practice of trying to stop problems, etc., that repeatedly occur in an appar
 ![dirt](https://user-images.githubusercontent.com/110033766/219707913-a0faacaf-f4ca-4128-900e-179bd3d65cfe.png)
 ![img1](https://user-images.githubusercontent.com/110033766/219722018-9854ea66-3109-4def-83d0-b347fe3509ad.jpg)
 ![img2](https://user-images.githubusercontent.com/110033766/219722027-98ebe7c2-b967-4fd1-a7fb-8bb3e5a2a183.jpg)
+
 ![img3](https://user-images.githubusercontent.com/110033766/219722029-30804b4f-0b89-4efc-bde0-efab2d7b8e33.jpg)
+
+![Wack-a-mole_game](https://user-images.githubusercontent.com/110033766/219722329-fad3ece9-3d75-4233-8e32-e49baf87d86a.jpg)
