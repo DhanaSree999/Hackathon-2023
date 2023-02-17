@@ -18,5 +18,7 @@ The arrows on the slideshow will take you to the previous and next images.**
 ![img2](https://user-images.githubusercontent.com/110033766/219722027-98ebe7c2-b967-4fd1-a7fb-8bb3e5a2a183.jpg)
 
 ![img3](https://user-images.githubusercontent.com/110033766/219722029-30804b4f-0b89-4efc-bde0-efab2d7b8e33.jpg)
+
 **Everytime we hit the mole that pops up ,we get a point.**
+
 ![Wack-a-mole_game](https://user-images.githubusercontent.com/110033766/219722329-fad3ece9-3d75-4233-8e32-e49baf87d86a.jpg)
